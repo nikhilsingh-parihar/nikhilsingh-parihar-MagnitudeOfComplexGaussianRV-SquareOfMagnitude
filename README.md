@@ -5,5 +5,5 @@ Assume,
       $|X| \sim \mathcal{Rayleigh}(\sqrt{\sigma^{2}/2})$ and,  
       $|X|^2 \sim \mathcal{Exp}(1/\sigma^{2})$.  
       **NOTE**:  
-      - In MATLAB, the parameter for exponential is the inverse of the conventional parameter. From our reference, we use $\sigma^2$ as the exponential parameter.
-      - I am also trying to verify the magnitude of non-zero mean complex Gaussian random variables, which I will do in the future. For zero mean Complex Gaussian RV verification, refer to lines 1-38 of the code.
+      [-] In MATLAB, the parameter for exponential is the inverse of the conventional parameter. From our reference, we use $\sigma^2$ as the exponential parameter.
+      [-] I am also trying to verify the magnitude of non-zero mean complex Gaussian random variables, which I will do in the future. For zero mean Complex Gaussian RV verification, refer to lines 1-38 of the code.
