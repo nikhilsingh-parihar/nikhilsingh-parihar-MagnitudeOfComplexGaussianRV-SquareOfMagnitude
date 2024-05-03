@@ -4,4 +4,6 @@ Assume,
       $X \sim \mathcal{CN}(0,\sigma^2)$ then,  
       $|X| \sim \mathcal{Rayleigh}(\sqrt{\sigma^{2}/2})$ and,  
       $|X|^2 \sim \mathcal{Exp}(1/\sigma^{2})$.  
-      **NOTE**: In MATLAB, the parameter for exponential is the inverse of the conventional parameter. From our reference we use $\sigma^2$ as the exponential parameter
+      **NOTE**:  
+      - In MATLAB, the parameter for exponential is the inverse of the conventional parameter. From our reference, we use $\sigma^2$ as the exponential parameter.
+      - I am also trying to verify the magnitude of non zero mean complex gaussian random variable, which I will do in future. For, zero mean Complex Gaussian RV verification refer to lines
